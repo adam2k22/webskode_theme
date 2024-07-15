@@ -2161,6 +2161,9 @@ textarea:-ms-input-placeholder {
 .rainbow-section-gap {
   padding: 40px 0 !important;
 }
+.rainbow-section-gapnew {
+  padding: 140px 0 !important;
+}
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .rainbow-section-gap {
     padding: 80px 0 !important;

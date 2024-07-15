@@ -10,7 +10,7 @@
         <!-- End Theme Style  -->
         <!-- Start Contact Area  -->
         <div class="main-content">
-            <div class="rainbow-contact-area rainbow-section-gap">
+            <div class="rainbow-contact-area rainbow-section-gapnew">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12 mb--40">
